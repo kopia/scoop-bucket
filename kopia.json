@@ -1,0 +1,15 @@
+{
+    "version": "0.6.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kopia/kopia/releases/download/v0.6.4/kopia-0.6.4-windows-x64.zip",
+            "bin": [
+                "kopia-0.6.4-windows-x64/kopia.exe"
+            ],
+            "hash": "b3d6e4ebb807130ed5e9d2d0ece054d651b02a98afb2d9e2c2032b7839b7e0d1"
+        }
+    },
+    "homepage": "https://kopia.io",
+    "license": "Apache-2.0",
+    "description": "Fast and secure open-source backup."
+}

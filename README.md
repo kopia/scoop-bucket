@@ -1,0 +1,1 @@
+This is a Scoop bucket containing Kopia windows release.
