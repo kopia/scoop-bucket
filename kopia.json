@@ -1,12 +1,12 @@
 {
-    "version": "0.8.0-beta1",
+    "version": "0.8.0-beta2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kopia/kopia/releases/download/v0.8.0-beta1/kopia-0.8.0-beta1-windows-x64.zip",
+            "url": "https://github.com/kopia/kopia/releases/download/v0.8.0-beta2/kopia-0.8.0-beta2-windows-x64.zip",
             "bin": [
-                "kopia-0.8.0-beta1-windows-x64/kopia.exe"
+                "kopia-0.8.0-beta2-windows-x64/kopia.exe"
             ],
-            "hash": "b59060701a243f42010842f1ef60f3639bfb7f81f18e77858ea89883029ac363"
+            "hash": "69d2adc6f964c5f4f3edee3f14e24076fbc2741f9a7f599b354f47bc3b3167ac"
         }
     },
     "homepage": "https://kopia.io/",
