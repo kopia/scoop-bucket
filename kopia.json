@@ -1,15 +1,16 @@
 {
-    "version": "0.9.0-rc3",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/kopia/kopia/releases/download/v0.9.0-rc3/kopia-0.9.0-rc3-windows-x64.zip",
-            "bin": [
-                "kopia-0.9.0-rc3-windows-x64/kopia.exe"
-            ],
-            "hash": "f41c1f4c1ab381b100c3fb9765d9ce2e49b44741ffeb0baf7813a58628f4fc60"
-        }
-    },
+    "version": "0.9.0-rc4",
+    "description": "Fast and secure open source backup.",
     "homepage": "https://kopia.io/",
     "license": "Apache-2.0",
-    "description": "Fast and secure open source backup."
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kopia/kopia/releases/download/v0.9.0-rc4/kopia-0.9.0-rc4-windows-x64.zip",
+            "bin": [
+                "kopia.exe"
+            ],
+            "hash": "d8881c99d415ba6a43c038c2e98e607017fbdb994ba6a8aa70cdcb2baddd994b",
+            "extract_dir": "kopia-0.9.0-rc4-windows-x64"
+        }
+    }
 }
